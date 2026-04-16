@@ -1,3 +1,3 @@
 ## Simple-Quiz-App" 
 
-<img src="quiz.pg">
+<img src="img/quiz.jpg">
